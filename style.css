@@ -1,0 +1,35 @@
+.container {
+    width: 1140px;
+    margin: 0 auto
+}
+
+
+ul a {
+    text-decoration: none;
+}
+
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    gap: 30px;
+}
+
+ a.botton{
+    background-color:red;
+    color: white;
+    border-radius: 10px;
+    padding: 5;
+    
+
+}
+
+.container{
+    text-decoration: non;
+}
